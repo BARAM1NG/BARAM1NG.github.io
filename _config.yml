@@ -1,17 +1,15 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: 배아람's Portfolio
+description: 비즈니스 데이터 분석가를 희망하는 배아람의 포트폴리오입니다.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Bae Ah Ram
+user_description: <strong>비즈니스 데이터 분석가를 희망하는 배아람입니다.</strong> 단순히 표면적인 문제 해결에 머무르지 않고, 문제의 뿌리를 찾아 깊이 있게 분석하며 근본적인 개선 방안을 도출하는 데 집중하고 있습니다. 매 순간의 성과에 안주하지 않고, 미래를 내다보며 장기적인 관점에서 문제를 정의하고 해결하는 자세로 임하고자 합니다. <br><br>
+      분석은 단순한 숫자나 데이터의 나열이 아니라, 그 속에 숨겨진 진실을 발견하는 여정입니다. 복잡한 상황 속에서도 본질을 파악하고, 꾸준히 개선해 나가는 과정을 통해 긍정적인 변화를 만들어내고 싶습니다. 이런 열정과 신념을 바탕으로, 언제나 진실된 마음으로 문제에 다가가는 분석가가 되기 위해 꾸준히 노력하고 있습니다.
+user_title: Portfolio
+email: vovia2@naver.com
 
 # Google-analytics
 google-analytics:
